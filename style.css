@@ -1,0 +1,33 @@
+body{
+    font-family: Arial;
+    margin:0;
+    background:#f4f4f4;
+}
+
+header{
+    background:#0f172a;
+    color:white;
+    text-align:center;
+    padding:40px;
+}
+
+.links a{
+    color:white;
+    margin:10px;
+    text-decoration:none;
+}
+
+section{
+    padding:40px;
+}
+
+h2{
+    color:#0f172a;
+}
+
+.project{
+    background:white;
+    padding:20px;
+    margin:15px 0;
+    border-radius:8px;
+}
